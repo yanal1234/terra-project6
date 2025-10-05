@@ -175,7 +175,7 @@ To support and explain our project, we’ve prepared the following materials:
   [Watch the video here](https://your-video-link.com)
 
 - **📊 Slide Deck:** The official slides submitted to NASA Space Apps, detailing the challenge, our solution, technologies used, and future roadmap.  
-  [View the slides here](https://your-slides-link.com)
+  [View the slides here][https://your-slides-link.com](https://drive.google.com/file/d/1qynu3EI18X5k18qKDNXbsiAOhwQ-wWmm/view?usp=sharing)
 
 These materials provide a complete overview of Terra’s mission, design, and impact, and are intended to complement the technical documentation and user experience.
 
